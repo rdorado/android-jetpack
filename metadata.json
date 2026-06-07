@@ -1,0 +1,6 @@
+{
+  "name": "Android Hello World",
+  "description": "A visually polished representation of a standard Android Hello World application with Jetpack Compose styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
